@@ -1,3 +1,3 @@
-## This is the Git tutorial by 
+## This is the amazing Git tutorial by 
 ## We will learn Git 
-## changes here
+## changes here are by developer2
